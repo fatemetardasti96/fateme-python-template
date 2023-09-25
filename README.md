@@ -1,3 +1,5 @@
+Simple template to create a production ready project with fastapi 
+
 Powered by Cookiecutter
 
 # How to run
